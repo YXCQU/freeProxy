@@ -5,5 +5,5 @@ __pycache__/
 db/__pycache__/
 proxy_pool/__pycache__/
 util/__pycache__/
-/.idea/
+/.idea
 /.gitignore
